@@ -45,3 +45,4 @@ public class A_Doremy_s_Paint_3
         }
     }
 }
+
