@@ -21,11 +21,11 @@ public class A_Don_t_Try_to_Count
     static int minOperations(String x, String s) {
         String cur = x;
 
-        for (int ops = 0; ops <= 6; ops++) { // 6 is safe upper bound
+        for (int ops = 0; ops <= 6; ops++) { 
             if (cur.contains(s)) {
                 return ops;
             }
-            cur = cur + cur; // perform operation
+            cur = cur + cur; 
         }
 
         return -1;
