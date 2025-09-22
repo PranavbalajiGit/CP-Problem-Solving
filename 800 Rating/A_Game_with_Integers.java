@@ -18,5 +18,7 @@ public class A_Game_with_Integers{
             }
             test--;
         }
+
+        sc.close();
     }
 }

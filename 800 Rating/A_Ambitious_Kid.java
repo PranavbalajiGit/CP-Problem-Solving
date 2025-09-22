@@ -23,5 +23,7 @@ public class A_Ambitious_Kid{
         }
 
         System.out.println(result);
+
+        sc.close();
     }
 }

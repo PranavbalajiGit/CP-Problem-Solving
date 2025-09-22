@@ -8,5 +8,7 @@ public class A_Watermelon{
         
         if(watermelon % 2 == 0 && watermelon > 2) System.out.println("YES");
         else System.out.println("NO");
-}
+
+        sc.close();
+    }
 }

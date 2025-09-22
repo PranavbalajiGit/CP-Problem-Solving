@@ -30,5 +30,7 @@ public class A_Goals_of_Victory{
 
             test--;
         }
+
+        sc.close();
     }
 }

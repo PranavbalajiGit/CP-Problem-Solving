@@ -34,5 +34,7 @@ public class A_Cover_in_Water{
 
             test--;
         }
+
+        sc.close();
     }
 }

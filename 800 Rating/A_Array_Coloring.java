@@ -29,5 +29,7 @@ public class A_Array_Coloring{
             
             test--;
         }
+
+        sc.close();
     }
 }

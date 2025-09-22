@@ -36,5 +36,7 @@ public class A_Desorting{
             System.out.println(operations);
             test--;
         }
+
+        sc.close();
     }
 }

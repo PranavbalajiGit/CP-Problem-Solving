@@ -45,5 +45,7 @@ public class C_Target_Practice
             System.out.println(total_score);
             test--;
         }
+
+        sc.close();
     }
 }

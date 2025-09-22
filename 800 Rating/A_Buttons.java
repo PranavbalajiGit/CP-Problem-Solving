@@ -26,5 +26,7 @@ public class A_Buttons{
             }
             test--;
         }
+
+        sc.close();
     }
 }

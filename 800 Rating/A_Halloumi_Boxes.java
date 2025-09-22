@@ -32,6 +32,8 @@ public class A_Halloumi_Boxes{
             }
             noe--;
         }
+
+        sc.close();
         
     }
 }

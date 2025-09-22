@@ -22,5 +22,7 @@ public class A_Jagged_Swaps{
 
             test--;
         }
+
+        sc.close();
     }
 }

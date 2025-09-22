@@ -43,6 +43,8 @@ public class A_Doremy_s_Paint_3
 
             test--;
         }
+
+        sc.close();
     }
 }
 

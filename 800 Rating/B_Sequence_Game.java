@@ -41,5 +41,7 @@ public class B_Sequence_Game{
 
             test--;
         }
+
+        sc.close();
     }
 }

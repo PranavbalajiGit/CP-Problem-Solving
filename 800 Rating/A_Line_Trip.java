@@ -40,5 +40,7 @@ public class A_Line_Trip{
             System.out.println(capacity);
             test--;
         }
+
+        sc.close();
     }
 }
