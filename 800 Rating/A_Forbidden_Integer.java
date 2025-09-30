@@ -53,6 +53,7 @@ public class A_Forbidden_Integer
                 
             test--;
         }
+        
         sc.close();
     }
 }
