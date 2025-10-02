@@ -23,5 +23,7 @@ public class A_Grasshopper_on_a_Line
             }
             test--;
         }
+
+        sc.close();
     }
 }
