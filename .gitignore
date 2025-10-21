@@ -1,2 +1,3 @@
-/.cph
-/ 800 Rating/.cph
+# Ignore all .cph folders everywhere
+.cph/
+**/.cph/
