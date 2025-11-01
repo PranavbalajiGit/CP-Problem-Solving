@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class A_Don_t_Try_to_Count

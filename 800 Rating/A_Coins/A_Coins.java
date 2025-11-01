@@ -19,5 +19,7 @@ public class A_Coins
                 System.out.println("NO");
             test--;
         }
+
+        sc.close();
     }
 }
